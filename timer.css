@@ -23,7 +23,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(233, 25, 25)
+    background-color: rgb(233, 25, 25);
 }
 button:active {
     background-color: white;
@@ -45,7 +45,7 @@ a {
 }
 
 a:hover {
-    background-color: rgb(233, 25, 25)
+    background-color: rgb(233, 25, 25);
 }
 a:active {
     background-color: white;
