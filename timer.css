@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+.output {
+    display: grid;
+    grid-template-columns: 10% 30%;
+}
+
+
+button {
+    position: relative;
+    top: 30px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 3px;
+    transition: 0.15s;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: rgb(233, 25, 25)
+}
+button:active {
+    background-color: white;
+    color: rgb(233, 25, 25);
+}
+
+a {
+    position: relative;
+    top: 30px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 3px;
+    transition: 0.15s;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(233, 25, 25)
+}
+a:active {
+    background-color: white;
+    color: rgb(233, 25, 25);
+}
